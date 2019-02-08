@@ -16,6 +16,6 @@ The form and manner of this distribution makes it eligible for export under the 
 
 ## License
 
-Copyright 2014-2018 Secure Message Systems
+Copyright 2014-2019 Titan Security LLC
 
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
