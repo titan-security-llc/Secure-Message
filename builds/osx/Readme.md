@@ -15,7 +15,6 @@ Memory, a.k.a. RAM (i.e. 512 MB)
 Hard Disk Space (i.e. 100 MB available for Application Install)
 
 ```
-
 ### Installing
 
 To install the Secure Mail Application run the package installer (.pkg) and follow through the package installer prompts. This will allow you to install the Secure Mail Application onto your Mac OS system. Once installed you will be able to communicate over a secure channel. 
@@ -26,6 +25,8 @@ Xcode 10 and up
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Copyright 2014-2019 Titan Security LLC
+
+Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
 
 
